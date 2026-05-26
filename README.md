@@ -1,8 +1,25 @@
-# esp32-led-control
-Control WS2812B LEDs in real-time using ESP32 + iOS app
-GitHub 
+# Control WS2812B LEDs in real-time (ESP32 + iOS)
 
-# Real-time LED control with ESP32 + iOS (WS2812B)
+Stop recompiling and re-uploading ESP32 code just to tweak LED animations.
+
+🎨 Paint LEDs live from your phone  
+⚡ See changes instantly (no firmware re-upload)  
+📱 Works with ESP32 + WS2812B over BLE  
+
+👉 Download the app:
+[PASTE YOUR APP STORE LINK HERE]
+
+---
+
+## 🎬 Demo
+
+(Add your TikTok link here for now)
+
+---
+
+## 💡 Why this exists
+
+
 
 Control your WS2812B LED strip **live from your phone** — no more uploading code just to tweak colours or animations.
 
