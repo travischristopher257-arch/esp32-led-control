@@ -71,7 +71,7 @@ Includes:
 
 ## 🎬 Demo
 
-[Embed your video here]
+[https://vm.tiktok.com/ZNRnW6711/]
 
 ## 💡 Use cases
 
